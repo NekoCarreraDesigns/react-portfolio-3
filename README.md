@@ -3,7 +3,7 @@
 
   ![last commit](https://img.shields.io/github/last-commit/NekoCarreraDesigns/react-portfolio?style=flat-square)![license badge](https://img.shields.io/github/license/NekoCarreraDesigns/react-portfolio?style=flat-square)
 
-  ### URL: https://nekocarreradesigns.github.io/react-portfolio/
+  ### URL: 
 
   ## Description 
   
