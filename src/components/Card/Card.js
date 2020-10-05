@@ -58,9 +58,8 @@ function Card() {
                     <h1 id="signage" className="mt-0 mb-1">Fitness Tracker</h1>
                     <img id="fitness-pic" className="img-fluid" src="./assets/FitnessTracker2.png" alt="team-generator" />
                     <div className="media-body">
-                        <p id="menu">Fitness Tracker app allows you to track your workouts, with a MongoDB database, express backend, using
-                        Semantic UI for the front end, the app also uses Mongoose ORM, I love being fit, and working out this one was fun to make.
-                        If I'm not in the gym training Muay Thai, you can find me out in the surf catching some waves
+                        <p id="menu">Fitness Tracker app allows you to track your workouts, with a MongoDB database, Express backend, using
+                        Semantic UI for the front end, the app also uses Mongoose ORM, ES6, app also uses Node.js, and some jQuery.
                         </p>
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://obscure-citadel-27419.herokuapp.com/">Do You Even Lift!</a></button>
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://github.com/NekoCarreraDesigns/fitness-tracker">Check Out The Code!</a></button>
@@ -70,11 +69,7 @@ function Card() {
                     <h1 id="signage" className="mt-0 mb-1">Note Taker</h1>
                     <img id="note-pic" className="img-fluid" src="./assets/NoteTaker.png" alt="note-taker" />
                     <div className="media-body">
-                        <p id="menu">Note taker app, are you like me? super forgetful? like so forgetful you would lose your own head if
-                        it wasn't attached. Well the note taker is here to save the day, have something important you need to remember
-                        write it down, the note taker saves it for you.
-                        have a pile of old notes? the note taker will delete them for you too. the app uses express.js for the
-                        backend.
+                        <p id="menu"> App uses Express, Node, and Bootstrap, allows the user to create, read, and delete notes. App made me a believer in arrow functions
                        </p>
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://afternoon-sea-03704.herokuapp.com/">What did you forget!</a></button>
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://github.com/NekoCarreraDesigns/note-taker">Check Out The Code!</a></button>
