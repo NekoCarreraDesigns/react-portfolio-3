@@ -56,7 +56,7 @@ function Card() {
                 </li>
                 <li className="list-inline">
                     <h1 id="signage" className="mt-0 mb-1">Fitness Tracker</h1>
-                    <img id="fitness-pic" className="img-fluid" src="./assets/FitnessTracker(2).png" alt="team-generator" />
+                    <img id="fitness-pic" className="img-fluid" src="./assets/FitnessTracker2.png" alt="team-generator" />
                     <div className="media-body">
                         <p id="menu">Fitness Tracker app allows you to track your workouts, with a MongoDB database, express backend, using
                         Semantic UI for the front end, the app also uses Mongoose ORM, I love being fit, and working out this one was fun to make.
