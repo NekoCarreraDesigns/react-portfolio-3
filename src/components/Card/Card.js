@@ -80,6 +80,17 @@ function Card() {
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://github.com/NekoCarreraDesigns/note-taker">Check Out The Code!</a></button>
                     </div>
                 </li>
+                <li className="list-inline">
+                    <h1 id="signage" className="mt-0 mb-1">Blues and Brews</h1>
+                    <img id="note-pic" className="img-fluid" src="./assets/bluesandbrews.png" alt="note-taker" />
+                    <div className="media-body">
+                        <p id="menu"> The first project which I did the front end for, app uses Zomato API, Ticketmaster API,
+                        Materialize CSS, and some CSS3, jQuery, and vanilla JavaScript
+                        </p>
+                        <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://akarpisz.github.io/masterproject1/">What did you forget!</a></button>
+                        <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://github.com/akarpisz/masterproject1">Check Out The Code!</a></button>
+                    </div>
+                </li>
             </ul>
         </div>
 
