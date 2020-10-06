@@ -9,9 +9,7 @@ function Card() {
                     <h1 id="signage" className="mt-0 mb-1">Weather Dashboard</h1>
                     <img id="weather-dash" className="img-fluid" src="./assets/WeatherDash.png" alt="palm-trees" />
                     <div className="media-body">
-                        <p id="menu"> Weather dashboard lets you view the weather for any city you want to search, want to know how the
-                        weather is at moms house, or in your home town, maybe you plan on traveling and don't want to forget to pack
-                        a jacket or forget your flip flops, the app uses the Open Weather API, and jQuery to function
+                        <p id="menu"> The app uses the Open Weather API, and jQuery to function, Bootstrap for the front end. App helped conquer API woes that were plaguing the skill set at the time.
                         </p>
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://nekocarreradesigns.github.io/weather-dashboard/">Whew it's a scorcher!</a></button>
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://github.com/NekoCarreraDesigns/weather-dashboard">Check Out The Code!</a></button>
@@ -23,7 +21,7 @@ function Card() {
                     <div className="media-body">
                         <p id="menu"> Employee tracker uses the command line to view departments, add departments, view employees, add
                         employees, view employees by specific departments, view employees by their manager, change employee roles,
-                        employees can also be removed if needed. The app uses SQL, Node.js, and Express.js
+                        employees can also be removed if needed. The app uses MySQL, Node.js, and Express.js
                         </p>
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://drive.google.com/file/d/1zig7CcZptLKOcA2tOe6vp0-Af3fkD2nQ/view">Manage your crew!</a></button>
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://github.com/NekoCarreraDesigns/employee-tracker">Check Out The Code!</a></button>
@@ -33,9 +31,8 @@ function Card() {
                     <h1 id="signage" className="mt-0 mb-1">Hockey Quiz</h1>
                     <img id="hockey-pic" className="img-fluid" src="./assets/hockey quiz pic.png" alt="hockey" />
                     <div className="media-body">
-                        <p id="menu">Do you have what it takes to win the Stanley Cup, Neko Carrera a die hard Red Wings fan since getting
-                        introduced to hockey by his uncles challenges you! In this fun quiz featuring two of the greatest hockey
-                          players to play the game</p>
+                        <p id="menu"> Quiz app that uses HTML, CSS3, and vanilla JavaScript for functionality, this started a love affair with JavaScript
+                        </p>
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://NekoCarreraDesigns.github.io/Hockey-Quiz">Drop The Puck!</a></button>
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://github.com/NekoCarreraDesigns/Hockey-Quiz">Check Out The Code!</a></button>
                     </div>
@@ -44,9 +41,7 @@ function Card() {
                     <h1 id="signage" className="mt-0 mb-1">Team Generator</h1>
                     <img id="team-pic" className="img-fluid" src="./assets/TeamGen.png" alt="team-generator" />
                     <div className="media-body">
-                        <p id="menu">The team generator app lets you put together a team for your project, featuring Node.js command
-                        line
-                        prompts to generate the profile cards, with role specific questions and icons for each team member, with data
+                        <p id="menu"> Uses Node.js, and the command line prompts to generate the profile cards, with role specific questions and icons for each team member, with data
                         about the specific team member. the app uses the inquirer npm for the questions, and the command line to
                         generate html content, the app also uses jest for testing purposes.
                         </p>
