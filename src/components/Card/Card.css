@@ -1,9 +1,11 @@
  .list-inline {
     background-color: black;
+    display: flexbox;
     color: cornflowerblue;
     font-size: 32px;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 30px;
+    margin: auto;
   }
  
 #signage {
@@ -27,7 +29,8 @@
 }
 
  #weather-dash {
-    padding-top: 20px; 
+    padding-top: 20px;
+    width: fit-content; 
     
     
 }

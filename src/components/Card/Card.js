@@ -3,7 +3,7 @@ import "./Card.css"
 
 function Card() {
     return (
-        <div>
+        <div size="fluid">
             <ul className="list-inline">
                 <li>
                     <h1 id="signage" className="mt-0 mb-1">Weather Dashboard</h1>
