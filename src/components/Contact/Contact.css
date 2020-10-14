@@ -3,14 +3,19 @@
     color: cornflowerblue;
     text-align: center;
     padding-top: 200px;
-    padding-bottom: 200px;
+    padding-bottom: 400px;
+    margin: auto;
     
+}
+
+.icon {
+    size: 20px;
 }
 
 .holla-at-me {
     font-size: 32px;
     text-shadow: magenta 1px 1px;
-    letter-spacing: 2px;
+    
 }
 
 .button2 {
