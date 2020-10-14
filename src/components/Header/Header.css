@@ -3,8 +3,10 @@
     color: magenta;
     background: black;
     text-shadow: cornflowerblue 1px 1px;
+    display: block;
     letter-spacing: 2px;
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    margin: auto;
     
 }

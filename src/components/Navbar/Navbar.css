@@ -1,10 +1,13 @@
 .nav {
    background-color: black;
+   padding-top: 10px;
 }
 
 .navbar-toggler {
     background-color: cornflowerblue;
     color: lightgreen;
+    padding-top: 10px 10px 10px 10px;
+    margin: auto;
 }
 
 .navbar-brand {
