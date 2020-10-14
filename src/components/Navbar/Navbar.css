@@ -4,7 +4,7 @@
 }
 
 .navbar-toggler {
-    background-color: cornflowerblue;
+    background: cornflowerblue;
     color: lightgreen;
     padding-top: 10px 10px 10px 10px;
     margin: auto;
