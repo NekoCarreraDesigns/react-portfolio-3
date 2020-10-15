@@ -37,7 +37,7 @@ function Card() {
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://github.com/NekoCarreraDesigns/Hockey-Quiz">Check Out The Code!</a></button>
                     </div>
                 </li>
-                <li className="list-inline">
+                {/* <li className="list-inline">
                     <h1 id="signage" className="mt-0 mb-1">Team Generator</h1>
                     <img id="team-pic" className="img-fluid" src="./assets/TeamGen.png" alt="team-generator" />
                     <div className="media-body">
@@ -48,7 +48,7 @@ function Card() {
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://drive.google.com/file/d/1so5yskli4EY3dHFrP0g877eq1efzan0s/view">Squad up!</a></button>
                         <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://github.com/NekoCarreraDesigns/team-profile-generator">Check Out The Code!</a></button>
                     </div>
-                </li>
+                </li> */}
                 <li className="list-inline">
                     <h1 id="signage" className="mt-0 mb-1">Fitness Tracker</h1>
                     <img id="fitness-pic" className="img-fluid" src="./assets/FitnessTracker2.png" alt="team-generator" />
@@ -61,13 +61,13 @@ function Card() {
                     </div>
                 </li>
                 <li className="list-inline">
-                    <h1 id="signage" className="mt-0 mb-1">Note Taker</h1>
-                    <img id="note-pic" className="img-fluid" src="./assets/NoteTaker.png" alt="note-taker" />
+                    <h1 id="signage" className="mt-0 mb-1">Employee Directory</h1>
+                    <img id="note-pic" className="img-fluid" src="./assets/EmployeeDirectory.png" alt="note-taker" />
                     <div className="media-body">
-                        <p id="menu"> App uses Express, Node, and Bootstrap, allows the user to create, read, and delete notes. App made me a believer in arrow functions
+                        <p id="menu">App built using React, some CSS3, and Bootstrap, allows you to filter employees in ascending or descending order by date of birth, name, email, or phone number 
                        </p>
-                        <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://afternoon-sea-03704.herokuapp.com/">What did you forget!</a></button>
-                        <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://github.com/NekoCarreraDesigns/note-taker">Check Out The Code!</a></button>
+                        <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://nekocarreradesigns.github.io/react-employee-directory/">Look Up An Employee</a></button>
+                        <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://github.com/NekoCarreraDesigns/react-employee-directory">Check Out The Code!</a></button>
                     </div>
                 </li>
                 <li className="list-inline">
