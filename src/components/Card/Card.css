@@ -1,8 +1,9 @@
  .list-inline {
     background-color: black;
     display: flexbox;
-    color: cornflowerblue;
+    color: slategrey;
     font-size: 32px;
+    font-weight: 500;
     padding-top: 10px;
     padding-bottom: 30px;
     margin: auto;
@@ -10,14 +11,12 @@
  
 #signage {
     text-decoration-line: underline;
-    text-shadow:magenta 1px 1px;
     text-align: center;
     letter-spacing: 5px;
     padding: 5px;
 }
 
 #menu {
-    text-shadow: magenta 1px 1px;
     letter-spacing: 2px;
     padding-bottom: 10px;
 }
