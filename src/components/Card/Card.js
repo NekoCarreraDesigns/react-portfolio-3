@@ -66,8 +66,8 @@ function Card() {
                     <div className="media-body">
                         <p id="menu">App built using React, some CSS3, and Bootstrap, allows you to filter employees in ascending or descending order by date of birth, name, email, or phone number 
                        </p>
-                        <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://nekocarreradesigns.github.io/react-employee-directory/">Look Up An Employee</a></button>
-                        <button style={{ backgroundColor: 'slateblue' }} type="button" className="btn btn-primary btn-lg"><a className="button" href="https://github.com/NekoCarreraDesigns/react-employee-directory">Check Out The Code!</a></button>
+                        <button className="button" type="button" className="btn btn-primary btn-lg"><a className="button" href="https://nekocarreradesigns.github.io/react-employee-directory/">Look Up An Employee</a></button>
+                        <button className="button" type="button" className="btn btn-primary btn-lg"><a className="button" href="https://github.com/NekoCarreraDesigns/react-employee-directory">Check Out The Code!</a></button>
                     </div>
                 </li>
                 <li className="list-inline">
