@@ -30,31 +30,47 @@
 
  #weather-dash {
     padding-top: 20px;
-    width: fit-content; 
+    width: 80%; 
+    margin-left: 60px
     
     
 }
  #employee-pic {
      padding-top: 20px;
+     width: 80%;
+     margin-left: 60px;
   
  }
 
  #hockey-pic {
      padding-top: 20px;
+     width: 80%;
+     margin-left: 60px;
      
  }
 
  #team-pic {
      padding-top: 20px;
+     width: 80%;
+     margin-left: 60px;
      
  }
 
  #fitness-pic {
      padding-top: 20px;
+     width: 80%;
+     margin-left: 60px;
      
  }
 
- #note-pic {
+ #Employee-pic {
      padding-top: 20px;
-     
+     width: 80%;
+     margin-left: 60px;
+ }
+
+ #bluesandbrews-pic {
+     padding-top: 20px;
+     width: 80%;
+     margin-left: 60px;
  }

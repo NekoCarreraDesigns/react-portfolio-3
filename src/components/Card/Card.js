@@ -62,7 +62,7 @@ function Card() {
                 </li>
                 <li className="list-inline">
                     <h1 id="signage" className="mt-0 mb-1">Employee Directory</h1>
-                    <img id="note-pic" className="img-fluid" src="./assets/EmployeeDirectory.png" alt="note-taker" />
+                    <img id="Employee-pic" className="img-fluid" src="./assets/EmployeeDirectory.png" alt="note-taker" />
                     <div className="media-body">
                         <p id="menu">App built using React, some CSS3, and Bootstrap, allows you to filter employees in ascending or descending order by date of birth, name, email, or phone number 
                        </p>
@@ -72,7 +72,7 @@ function Card() {
                 </li>
                 <li className="list-inline">
                     <h1 id="signage" className="mt-0 mb-1">Blues and Brews</h1>
-                    <img id="note-pic" className="img-fluid" src="./assets/bluesandbrews.png" alt="note-taker" />
+                    <img id="bluesandbrews-pic" className="img-fluid" src="./assets/bluesandbrews.png" alt="note-taker" />
                     <div className="media-body">
                         <p id="menu"> The first project which I did the front end for, app uses Zomato API, Ticketmaster API,
                         Materialize CSS, and some CSS3, jQuery, and vanilla JavaScript
