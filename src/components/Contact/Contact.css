@@ -1,24 +1,22 @@
 .contact-me {
-    background-color: black;
-    color: slategrey;
-    text-align: center;
-    padding-top: 200px;
-    padding-bottom: 320px;
-    margin: auto;
-    
+  background-color: black;
+  color: slategrey;
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 320px;
+  margin: auto;
 }
 
 .icon {
-    size: 20px;
+  size: 20px;
 }
 
 .holla-at-me {
-    font-size: 32px;
-    
-    
+  font-size: 32px;
+  text-shadow: lightgreen 1px 1px;
 }
 
 .button2 {
-    color: cornflowerblue;
-    font-size: 24px;
+  color: cornflowerblue;
+  font-size: 24px;
 }
