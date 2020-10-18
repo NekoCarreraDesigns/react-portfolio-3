@@ -1,77 +1,69 @@
- .list-inline {
-    background-color: black;
-    display: flexbox;
-    color: slategrey;
-    font-size: 32px;
-    font-weight: 500;
-    padding-top: 10px;
-    padding-bottom: 30px;
-    margin: auto;
-  }
- 
+.list-inline {
+  background-color: black;
+  display: flexbox;
+  color: slategrey;
+  font-size: 32px;
+  font-weight: 500;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  margin: auto;
+}
+
 #signage {
-    text-decoration-line: underline;
-    text-align: center;
-    letter-spacing: 5px;
-    padding: 5px;
+  text-decoration-line: underline;
+  text-align: center;
+  letter-spacing: 5px;
+  padding: 5px;
 }
 
 #menu {
-    letter-spacing: 2px;
-    padding-bottom: 10px;
+  letter-spacing: 2px;
+  padding-bottom: 10px;
 }
 
 .button {
-    color: lightgreen;
-    margin: 80px;
-    background-color: slategrey;
-    padding-bottom: 10px;
-    margin-left: 80px;
+  color: lightgreen;
+  margin: 10px;
+  padding-bottom: 10px;
 }
 
- #weather-dash {
-    padding-top: 20px;
-    width: 80%; 
-    margin-left: 60px
-    
-    
+#weather-dash {
+  padding-top: 20px;
+  width: 80%;
+  margin-left: 60px;
 }
- #employee-pic {
-     padding-top: 20px;
-     width: 80%;
-     margin-left: 60px;
-  
- }
+#employee-pic {
+  padding-top: 20px;
+  width: 80%;
+  margin-left: 60px;
+}
 
- #hockey-pic {
-     padding-top: 20px;
-     width: 80%;
-     margin-left: 60px;
-     
- }
+#hockey-pic {
+  padding-top: 20px;
+  width: 80%;
+  margin-left: 60px;
+}
 
- #team-pic {
-     padding-top: 20px;
-     width: 80%;
-     margin-left: 60px;
-     
- }
+#team-pic {
+  padding-top: 20px;
+  width: 80%;
+  margin-left: 60px;
+}
 
- #fitness-pic {
-     padding-top: 20px;
-     width: 80%;
-     margin-left: 60px;
-     
- }
+#fitness-pic {
+  padding-top: 20px;
+  width: 80%;
+  margin-left: 60px;
+}
 
- #Employee-pic {
-     padding-top: 20px;
-     width: 80%;
-     margin-left: 60px;
- }
+#Employee-pic {
+  padding-top: 20px;
+  width: 80%;
+  margin-left: 60px;
+}
 
- #bluesandbrews-pic {
-     padding-top: 20px;
-     width: 80%;
-     margin-left: 60px;
- }
+#bluesandbrews-pic {
+  padding-top: 20px;
+  width: 80%;
+  margin-left: 60px;
+}

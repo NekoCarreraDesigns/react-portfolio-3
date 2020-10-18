@@ -1,27 +1,30 @@
 .nav {
-   background-color: black;
-   padding-top: 10px;
+  background-color: black;
+  padding-top: 10px;
 }
 
 .navbar-toggler {
-    background: cornflowerblue;
-    color: lightgreen;
-    padding-top: 10px 10px 10px 10px;
-    margin: auto;
+  background: cornflowerblue;
+  color: lightgreen;
+  padding-top: 10px 10px 10px 10px;
+  border-radius: 10px;
+  margin: auto;
 }
 
 .navbar-brand {
-    color: cornflowerblue;
+  color: cornflowerblue;
 }
 
 .icon {
-    color: cornflowerblue;
+  color: cornflowerblue;
 }
 
 .nav-link {
-    color: lightgreen;
-    font-size: 24px;
-    letter-spacing: 2px;
-    text-shadow: cornflowerblue 1px 1px;
-    
+  color: lightgreen;
+  position: relative;
+  float: right;
+  font-size: 24px;
+  letter-spacing: 2px;
+  padding-left: 10px;
+  text-decoration-line: underline;
 }
