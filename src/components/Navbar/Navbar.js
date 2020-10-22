@@ -20,9 +20,6 @@ function Navbar() {
                         <a className="nav-link" href="/my-portfolio">Portfolio</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="/my-jams">Jams</a>
-                    </li>
-                    <li className="nav-item">
                         <a className="nav-link" href="/contact-me">Contact</a>
                     </li>
                 </ul>

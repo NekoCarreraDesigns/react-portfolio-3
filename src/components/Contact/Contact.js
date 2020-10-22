@@ -11,7 +11,6 @@ function Contact() {
                 <p className="holla-at-me">e-mail me at denvermaas@gmail.com</p>
                 <br></br>
                 <div>
-                    <i className="icon fab fa-instagram-square" /><a rel="noopener noreferrer" className="button2" target="_blank" href="https://www.instagram.com/LaVeyathan78">Instagram</a>
                     <br></br>
                     <i className="icon fab fa-linkedin" /><a rel="noopener noreferrer" className="button2" target="_blank" href="https://www.linkedin.com/in/nekocarrera1978">Linkedin</a>
                     <br></br>
