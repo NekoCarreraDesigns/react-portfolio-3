@@ -3,8 +3,7 @@
   font-size: 32px;
   letter-spacing: 3px;
   font-weight: 500;
-  color: slategrey;
-  text-shadow: lightgreen 1px 1px;
+  color: rgb(123, 141, 160);
   position: relative;
   float: right;
 }
