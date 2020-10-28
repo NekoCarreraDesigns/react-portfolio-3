@@ -2,7 +2,6 @@
   background-color: black;
   display: flexbox;
   color: slategrey;
-  text-shadow: lightgreen 1px 1px;
   font-size: 32px;
   font-weight: 500;
   padding-top: 10px;
@@ -11,7 +10,6 @@
 }
 
 #signage {
-  text-decoration-line: underline;
   text-align: center;
   letter-spacing: 5px;
   padding: 5px;
