@@ -1,7 +1,7 @@
 .list-inline {
   background-color: black;
   display: flexbox;
-  color: slategrey;
+  color: rgb(123, 141, 160);
   font-size: 32px;
   font-weight: 500;
   padding-top: 10px;
