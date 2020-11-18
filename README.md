@@ -4,7 +4,7 @@
 
 ### URL: https://dry-falls-03215.herokuapp.com/
 
-<iframe src="https://drive.google.com/file/d/1ns6aq0-7LtIwL1rf682DFcjNXA4YhCXs/preview" width="640" height="480"></iframe>
+<iframe src="assets/Portfolio3.gif"></iframe>
 
 ## Description
 
@@ -20,7 +20,7 @@ New and improved portfolio page using react.js
 
 ## Installation
 
-` Ask for permission, details will be given `
+`Ask for permission, details will be given`
 
 ## Usage
 
@@ -28,7 +28,7 @@ View projects, and apps that I have built
 
 ## Future Developments
 
-convert from bootstrap to reactstrap
+Showcase newer apps, and projects that I have developed
 
 ## Credits
 
