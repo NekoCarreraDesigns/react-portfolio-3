@@ -4,7 +4,7 @@
 
 ### URL: https://dry-falls-03215.herokuapp.com/
 
-<img src="./assets/Portfolio3.gif"></img>
+[](./assets/Portfolio3.gif)
 
 ## Description
 
